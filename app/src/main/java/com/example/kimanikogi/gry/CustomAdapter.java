@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 /**
- * Created by kimani kogi on 10/2/2017.
+ * Created by kimani kogi on 10/2/2015.
  */
 
 public class CustomAdapter extends CursorAdapter {
